@@ -8,3 +8,8 @@
 - PUNTO 1 (Múltiplos 3 y 2)
 - PUNTO 2 (Frutas y Salpicon)
 - PUNTO 3 (Tiendita)
+
+***
+
+- Santiago Alvarez Ospitia
+- Mauricio Andrés Parra Colorado
