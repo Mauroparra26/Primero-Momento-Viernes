@@ -13,7 +13,7 @@ while(centinela!=cantidad):
 
     elif (i%3) == 0:
       multiplos3.append(i)
-      
+
     numeros['multiplosde2']= multiplos2
     numeros['multiplosde3'] =multiplos3
 
